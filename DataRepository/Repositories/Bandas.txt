@@ -1,0 +1,6 @@
+ee948169-4d02-4e4d-8008-77e933c19c69|Nirvana|02/02/2020|3|True
+4d3c218c-38ae-464c-b95b-b00492f8bb2a|Metallica|01/01/2021|4|False
+589cdd33-479b-4159-9fc3-7be4eaf0a0b0|Megadeth|02/02/2020|4|False
+6f63b06b-dacb-483e-bdac-488978eae873|rammstein|06/06/1990|4|True
+6c637cc5-6ed5-4724-9ba6-6b10e8a78ecf|Pearl Jam|07/07/1970|5|False
+fcedb005-f2e1-4deb-a3dc-93544223dc1f|Slipknot|08/08/2008|7|True
